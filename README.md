@@ -2,7 +2,8 @@
 
 ## Project Overview
 The main idea behind this project is a multi-agent system made of two agents that communicate via A2A protocol. The first agent is made using `google-adk` and the second is made using `LangGraph` framework. The first agent takes a raw job description for a job, for example "We are in need of a Software Engineer to design and develop scalable software. The candidate will write clean code, collaborate on features, and optimize performance. Requires proficiency in Python, Java, or JavaScript...", this agent (agent 1) will transform this Job Description into clear and consice bullet points, it might ask for more information from the user. After,  recieving enough information about the job it will pass this new parsed Job Description to agent 2. Now agent 2 will have to use a RAG tool, passing to it the correct parameters and parsed job description to search for k (by default k = 5) most ideal candidates from a folder of resumes collected from the internet and will then return them to agent 1.
-![Demo Screenshot](images/Screenshot 2025-08-22 043726.png)
+![Demo Screenshot](images/Screenshot%202025-08-22%20043726.png)
+
 
 ---
 
