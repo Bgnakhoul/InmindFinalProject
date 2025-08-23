@@ -7,7 +7,7 @@ The main idea behind this project is a multi-agent system made of two agents tha
 ![Demo Screenshot](images/Screenshot%202025-08-22%20043726.png)
 
 ## Main philosophy
-Learn to implement things by hand and don't use AI to do your job even if it did not work. So my usage of AI was very small, everything you see here is written by me from tutorials I followed on youtube (links at the end), from official documentation and from google searches.
+Learn to implement things by hand and don't use AI to do your job even if it did not work. So my usage of AI was very small, everything you see here is written by me from tutorials I followed on youtube, from official documentation and from google searches. Important links are at the end.
 
 ---
 
