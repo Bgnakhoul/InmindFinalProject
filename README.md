@@ -6,6 +6,8 @@ The main idea behind this project is a multi-agent system made of two agents tha
 
 ![Demo Screenshot](images/Screenshot%202025-08-22%20043726.png)
 
+## Main philosophy
+Learn to implement things by hand and don't use AI to do your job even if it did not work. So my usage of AI was very small, everything you see here is written by me from tutorials I followed on youtube (links at the end), from official documentation and from google searches.
 
 ---
 
@@ -57,7 +59,7 @@ Agent 2: Takes bullet points and call RAG tool to get best candidates and passes
 
 Agent 3: Takes best candidates, then asks user for his schedule (PDF format) and tries to fit interviews for the candidates in the schedule
 
-This approach was too complex to implement with A2A because it would require the user to be able to invoke multiple agents (agent 1 then agent 3) and talk to them seperately.
+This approach was too complex to implement with A2A because it would require the user to be able to invoke multiple agents (agent 1 then agent 3) and talk to them seperately. This is because Agent 3 is the scheduling agent and will ask for a pdf format from the user.
 
 MCP server worked
 
