@@ -359,7 +359,7 @@ This section transparently documents the use of AI tools and external resources.
 -  [Link1](https://chatgpt.com/share/68a7da5b-5670-8007-9e21-a2e2a3a220df)
 -  [Link2](https://chatgpt.com/share/68a7db17-139c-8007-9df0-ace4d76367e8)
 
-### External Resources & Libraries
+### Most Important External Resources & Libraries
 *   **[A2A official code samples](https://github.com/a2aproject/a2a-samples/tree/main/samples/python)**
 *   **[Youtube tutorial about A2A](https://www.youtube.com/watch?v=mFkw3p5qSuA&t=3829s)**
 *   **Dataset: [Resume Dataset](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset)**
