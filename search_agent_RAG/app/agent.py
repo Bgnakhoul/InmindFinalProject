@@ -28,7 +28,7 @@ load_dotenv()
 
 # Code from: https://medium.com/@saurabhp.iitkgp/simple-rag-q-a-with-your-pdf-file-using-langgraph-824a831032f0
 
-folder_path = Path(r"C:\Users\bachi\Downloads\resumes\data\data")   
+folder_path = Path(r"C:\Users\bachi\Downloads\InmindFinalProject\resumes")   
 # 1) Load all PDFs in the folder
 loader = DirectoryLoader(str(folder_path), glob="*.pdf", loader_cls=PyPDFLoader)
 docs = loader.load()
