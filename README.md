@@ -57,7 +57,7 @@ Agent 2: Takes bullet points and call RAG tool to get best candidates and passes
 
 Agent 3: Takes best candidates, then asks user for his schedule (PDF format) and tries to fit interviews for the candidates in the schedule
 
-This approach was too complex to implement especially as I approached towards A2A
+This approach was too complex to implement with A2A because it would require the user to be able to invoke multiple agents (agent 1 then agent 3) and talk to them seperately.
 
 MCP server worked
 
