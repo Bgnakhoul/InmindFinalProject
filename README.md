@@ -24,7 +24,7 @@ Before running the application locally, ensure you have the following installed:
 
 You will need to run each agent in a separate terminal window. The first time you run these commands, `uv` will create a virtual environment and install all necessary dependencies before starting the agent.
 
-### Terminal 1: Run Kaitlynn Agent
+### Terminal 1: Run search_agent_RAG Agent
 ```powershell
 cd search_agent_RAG
 uv venv
