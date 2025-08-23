@@ -114,6 +114,12 @@ The goal was also to make Agent 1 a scheduling agent but I spent too much time d
 
 - I was able to get a working, bug free code however the problem lied in the prompts. The A2A protocol was implemented successfully, with manual logging and token tracking and the adk web UI.
 
+![Demo Screenshot](images/Screenshot 2025-08-22 125157.png)
+![Demo Screenshot](images/Screenshot 2025-08-22 125335.png)
+![Demo Screenshot](images/Screenshot 2025-08-22 125449.png)
+![Demo Screenshot](images/Screenshot 2025-08-22 125821.png)
+
+
 
 ### iii) Prompt Versioning
 For the search_agent_RAG Agent.
